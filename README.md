@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo_hazega.png.jpg" />
+  <img src="1654318100382.png" />
 </p>
 
 <p align="center">
