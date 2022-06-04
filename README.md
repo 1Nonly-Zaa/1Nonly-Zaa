@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://github.com/MirzaAzib788/MirzaAzib788"><img title="NAME" src="https://img.shields.io/badge/NAME-Mirza-red.svg?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/MirzaAzib788/MirzaAzib788"><img title="AGE" src="https://img.shields.io/badge/AGE-13-yellow.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/MirzaAzib788/MirzaAzib788"><img title="STATUES" src="https://img.shields.io/badge/STATUES-BocilSmp-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MirzaAzib788/MirzaAzib788"><img title="STATUES" src="https://img.shields.io/badge/STATUES-Pelajar Smp-green.svg?style=for-the-badge&logo=github"></a>
 
 </p>
 
