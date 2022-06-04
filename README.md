@@ -4,9 +4,9 @@
 
 <p align="center">
 
-- => nama gwehj Mirza
-- => umur gwehj 13thn
-- => gwehj bocil ep ep
+- NAME : Mirza
+- AGE : 13
+- STATUES : bocil smp
 
 ### sosmed gwehj cuy☎️
 
