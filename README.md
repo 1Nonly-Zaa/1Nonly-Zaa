@@ -15,8 +15,7 @@
 <a href="https://instagram.com/MirzaGevs"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 <a href="https://t.me/ERROR4022"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
 <a href="https://youtube.com/c/FantechGaming"><img src="https://img.shields.io/badge/YouTube-FantechGaming-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/FantechGaming" /><br>
-<a name=ZeeoneOfc&label=VIEWS&style=flat-square&color=orange" />
-<a href="https://github.com/MirzaAzib788"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
+<a href="https://github.com/MirzaAzib788"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" />
 
 <h3 align="left">bahasa and Tools:</h3>
 
