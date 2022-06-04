@@ -4,6 +4,9 @@
 
 <p align="center">
 <a href="https://img.shields.io/static/v1?label=NAME&message=Mirza&color=yellow"
+<a href="https://img.shields.io/static/v1?label=AGE&message=13&color=green"
+<a href="https://img.shields.io/static/v1?label=STATUES&message=bocilsmp&color=red"
+</p>
 
 ### sosmed gwehj cuy☎️
 
