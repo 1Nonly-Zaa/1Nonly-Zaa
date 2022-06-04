@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MirzaAzib788.png" />
+  <img src="https://logo_zega.jpg" />
 </p>
 
 <p align="center">
