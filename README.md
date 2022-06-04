@@ -3,10 +3,7 @@
 </p>
 
 <p align="center">
-
-- NAME : Mirza
-- AGE : 13
-- STATUES : bocil smp
+<a href="https://img.shields.io/static/v1?label=NAME&message=Mirza&color=yellow"
 
 ### sosmed gwehj cuy☎️
 
