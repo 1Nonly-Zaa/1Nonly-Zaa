@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo_zega.jpg" />
+  <img src="logo_hazega.png.jpg" />
 </p>
 
 <p align="center">
