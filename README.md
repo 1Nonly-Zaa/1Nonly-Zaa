@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://logo_zega.jpg" />
+  <img src="logo_zega.jpg" />
 </p>
 
 <p align="center">
