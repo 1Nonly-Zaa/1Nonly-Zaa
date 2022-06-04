@@ -17,6 +17,7 @@
 <a href="https://youtube.com/c/FantechGaming"><img src="https://img.shields.io/badge/YouTube-FantechGaming-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/FantechGaming" /><br>
 <a href="https://github.com/MirzaAzib788"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" />
 <a href="https://chat.whatsapp.com/FdrAEOJCdoyKpKGlbCGGLL"><img src="https://img.shields.io/badge/Grup Wangsaff-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/FdrAEOJCdoyKpKGlbCGGLL"><img src="https://github.com/MirzaAzib788/MirzaAzib788/logo_tiktok.jpg/badge/Grup Wangsaff-black?style=for-the-badge&logo=TikTok&logoColor=black" />
 
 <p align="center">
   <a href="https://open.spotify.com/user/nf3xjkwb8gsuq2b0t8bimjt58" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350fmt/a>
