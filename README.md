@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/MirzaAzib788/MirzaAzib788"><img title="NAME" src="https://img.shields.io/badge/NAME-Mirza-yellow.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/MirzaAzib788/MirzaAzib788"><img title="AGE" src="https://img.shields.io/badge/AGE-13-orange.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/MirzaAzib788/MirzaAzib788"><img title="STATUES" src="https://img.shields.io/badge/STATUES-Pelajar Smp-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MirzaAzib788/MirzaAzib788"><img title="NAMA GUA" src="https://img.shields.io/badge/NAMA GUA-Mirza-yellow.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MirzaAzib788/MirzaAzib788"><img title="UMUR GUA" src="https://img.shields.io/badge/UMUR GUA-13-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MirzaAzib788/MirzaAzib788"><img title="STATUS GUA" src="https://img.shields.io/badge/STATUS GUA-Pelajar Smp-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
-### my social media
+### medsos gua
 
 <a href="https://wa.me/6289690735612"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.facebook.com/MirzaGevs"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
