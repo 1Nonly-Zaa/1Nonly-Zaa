@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/MirzaAzib788/MirzaAzib788"><img title="NAMA GUA" src="https://img.shields.io/badge/NAMA GUA-Mirza-yellow.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/MirzaAzib788/MirzaAzib788"><img title="UMUR GUA" src="https://img.shields.io/badge/UMUR GUA-13-orange.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/MirzaAzib788/MirzaAzib788"><img title="STATUS GUA" src="https://img.shields.io/badge/STATUS GUA-Pelajar Smp-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MirzaAzib788/MirzaAzib788"><img title="NAMA GUA" src="https://img.shields.io/badge/NAMA gwejh-Mirza-yellow.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MirzaAzib788/MirzaAzib788"><img title="UMUR GUA" src="https://img.shields.io/badge/UMUR gwejh-14-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MirzaAzib788/MirzaAzib788"><img title="STATUS GUA" src="https://img.shields.io/badge/STATUS gwejh-Pelajar Smp-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 ### medsos gua
 
-<a href="https://wa.me/6289690735612"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/6289690735612"><img src="https://img.shields.io/badge/wangsaff gwejh-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.facebook.com/MirzaGevs"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 <a href="https://instagram.com/ZaYenzz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 <a href="https://t.me/ERROR4022"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
@@ -29,3 +29,7 @@
 
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" alt="nodejs" width="40" height="40"/> </a> </p>
 
+
+
+
+### ©2022 ZegaBasement
