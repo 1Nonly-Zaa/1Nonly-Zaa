@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://github.com/MirzaAzib788/MirzaAzib788"><img title="NAMA" src="https://img.shields.io/badge/NAMA-Mirza-yellow.svg?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/MirzaAzib788/MirzaAzib788"><img title="UMUR" src="https://img.shields.io/badge/UMUR-14-orange.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/MirzaAzib788/MirzaAzib788"><img title="STATUS" src="https://img.shields.io/badge/STATUS-Pelajar Smp-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MirzaAzib788/MirzaAzib788"><img title="STATUS" src="https://img.shields.io/badge/STATUS-Pelajar-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 ### tentang saya
