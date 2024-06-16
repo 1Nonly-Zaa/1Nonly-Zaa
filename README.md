@@ -11,8 +11,7 @@
 ### tentang saya
 
 <a href="https://m.facebook.com/mirza.gevs.52"><img
-src="https://img.shields.io/badge/Pesbuk-E4405F?
-style=for-the-badge&logo=facebook&logoColor=blue"/>
+src="https://img.shields.io/badge/Pesbuk-E4405Fstyle=for-the-badge&logo=facebook&logoColor=blue"/>
 <a href="https://instagram.com/mrzaa_0"><img src="https://img.shields.io/badge/Igeh-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 <a href="https://t.me/ERROR4022"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
 
