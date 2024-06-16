@@ -10,7 +10,9 @@
 
 ### tentang saya
 
-<a href="https://wa.me/6285798297232"><img src="https://img.shields.io/badge/wangsaff-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://m.facebook.com/mirza.gevs.52"><img
+src="https://img.shields.io/badge/Pesbuk-E4405F?
+style=for-the-badge&logo=facebook&logoColor=blue"/>
 <a href="https://instagram.com/mrzaa_0"><img src="https://img.shields.io/badge/Igeh-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 <a href="https://t.me/ERROR4022"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
 
